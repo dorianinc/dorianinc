@@ -35,9 +35,9 @@
 <a href="https://www.linkedin.com/in/dorian-macias/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<!-- <a href="https://wellfound.com/u/alan-echenique-1" target="_blank">
+<a href="https://wellfound.com/u/dorian-macias" target="_blank">
    <img align="left"  src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
-</a> -->
+</a>
 <a href="mailto:dorianrmacias@gmail.com" target="_blank">
    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
