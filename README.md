@@ -1,19 +1,23 @@
 ## Welcome to my Github!
 <div >
-<p>🤓 My name is Dorian!</p>
 
-<p>✨ I'm a full-stack software engineer who loves taking on challenging projects, learning new languages and technologies, and working with others. </p>
+  <div id="greetingContainer">
+  <p><img src="https://cdn-hjkgf.nitrocdn.com/TXhyeHzLvXrPrkIinWDxLcEonZCfYOKB/assets/images/optimized/rev-ae78df4/wp-content/uploads/2021/09/Tanjirou-demon-slayer.gif">
+  <p>🤖 My name is Dorian!</p>
+</div>
 
-<p>💻 If you don't see me at my computer coding, I'm watching anime or playing </p>
+
+<p>💻 I'm a full-stack software engineer who loves taking on challenging projects, learning new languages and technologies, and working with others. </p>
+
+<p>😶‍🌫️ If you need any good anime or hiking trail recommendations let me know! </p>
   
 <div id="jokeContainer">
   <p><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <em>Words of wisdom:</em></p>
   <blockquote>
     Programming is 10% writing code and 90% understanding why it's not working.
   </blockquote>
+  <div><img src="https://i.imgflip.com/6js5qf.jpg" width="600"></div>
 </div>
-
-<img align="bottom" src="https://i.pinimg.com/originals/0f/b9/4d/0fb94dff52a5935e105ec497a0c010a5.gif"/>
 
 <br>
 
