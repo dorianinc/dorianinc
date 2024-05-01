@@ -16,7 +16,7 @@
   <blockquote>
     Programming is 10% writing code and 90% understanding why it's not working.
   </blockquote>
-  <div><img src="https://i.imgflip.com/6js5qf.jpg" width="600"></div>
+<!--   <div><img src="https://i.imgflip.com/6js5qf.jpg" width="600"></div> -->
 </div>
 
 <br>
