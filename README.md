@@ -29,7 +29,6 @@
  
  <br>
  
-![Dorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorianinc&show_icons=true&theme=cobalt)
  
 ### 📧 Connect with me!
 <a href="https://www.linkedin.com/in/dorian-macias/" target="_blank" >
