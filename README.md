@@ -1,45 +1,41 @@
 ## Welcome to my Github!
-<div >
-
+<div>
   <div id="greetingContainer">
-  <p><img src="https://cdn-hjkgf.nitrocdn.com/TXhyeHzLvXrPrkIinWDxLcEonZCfYOKB/assets/images/optimized/rev-ae78df4/wp-content/uploads/2021/09/Tanjirou-demon-slayer.gif">
-  <p>🤖 My name is Dorian!</p>
+    <p><img src="https://cdn-hjkgf.nitrocdn.com/TXhyeHzLvXrPrkIinWDxLcEonZCfYOKB/assets/images/optimized/rev-ae78df4/wp-content/uploads/2021/09/Tanjirou-demon-slayer.gif"></p>
+    <p>🤖 My name is Dorian!</p>
+  </div>
+
+  <p>💻 I'm a full-stack software engineer who loves taking on challenging projects, learning new languages and technologies, and working with others.</p>
+
+  <p>😶‍🌫️ If you need any good anime or hiking trail recommendations let me know!</p>
+
+  <div id="jokeContainer">
+    <p><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <em>Words of wisdom:</em></p>
+    <blockquote>
+      Programming is 10% writing code and 90% understanding why it's not working.
+    </blockquote>
+  </div>
+
+  <br>
+  <br>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=dorianinc&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+  <br>
+  <br>
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dorianinc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  <h3>📧 Connect with me!</h3>
+  <a href="https://www.linkedin.com/in/dorian-macias/" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wellfound.com/u/dorian-macias" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
+  </a>
+  <a href="mailto:dorianrmacias@gmail.com" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
-
-
-<p>💻 I'm a full-stack software engineer who loves taking on challenging projects, learning new languages and technologies, and working with others. </p>
-
-<p>😶‍🌫️ If you need any good anime or hiking trail recommendations let me know! </p>
-  
-<div id="jokeContainer">
-  <p><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <em>Words of wisdom:</em></p>
-  <blockquote>
-    Programming is 10% writing code and 90% understanding why it's not working.
-  </blockquote>
-<!--   <div><img src="https://i.imgflip.com/6js5qf.jpg" width="600"></div> -->
-</div>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dorianinc&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 <br>
-<br>
- 
- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dorianinc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
- 
-### 📧 Connect with me!
-<a href="https://www.linkedin.com/in/dorian-macias/" target="_blank" >
-  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://wellfound.com/u/dorian-macias" target="_blank">
-   <img align="left"  src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
-</a>
-<a href="mailto:dorianrmacias@gmail.com" target="_blank">
-   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
-<br>
 
 ## 
 ### Languages:
