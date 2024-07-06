@@ -16,12 +16,12 @@
     </blockquote>
   </div>
 
-  <br>
-  <br>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=dorianinc&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-  <br>
-  <br>
-  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dorianinc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=dorianinc&theme=dracula&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+<br>
+<br>
+ [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dorianinc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   <h3>📧 Connect with me!</h3>
   <a href="https://www.linkedin.com/in/dorian-macias/" target="_blank">
